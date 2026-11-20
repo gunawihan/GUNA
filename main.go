@@ -1,3 +1,5 @@
+// Program konversi suhu menggunakan bahasa Go
+// Program dibuat untuk memenuhi tugas praktikum
 package main
 
 import "fmt"
