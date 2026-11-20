@@ -21,3 +21,6 @@ go run main.go
 ## Identitas Mahasiswa
 Nama: I Made Guna Wihantara
 NIM: 42630037
+
+## Pengembangan
+Program ini dibuat menggunakan bahasa pemrograman Go.
