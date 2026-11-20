@@ -24,3 +24,4 @@ NIM: 42630037
 
 ## Pengembangan
 Program ini dibuat menggunakan bahasa pemrograman Go.
+program ini dibuat sebagai tugas pratikum pemrograman Go.
